@@ -2,6 +2,8 @@
 
 Cici is Chinesia's cheerful panda companion, now available as a custom pet for the Codex desktop app.
 
+![Cici Codex Pet animation states](preview.png)
+
 ## Install
 
 1. Download or clone this repository.
